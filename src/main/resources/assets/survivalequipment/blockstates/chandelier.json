@@ -1,0 +1,15 @@
+{
+	"multipart" : [
+		{
+			"apply" : {
+				"model" : "oak_fence_post"
+			}
+		},
+		{
+			"apply" : {
+				"model" : "normal_torch", "y" : 90
+			}
+		}
+		
+	]
+}

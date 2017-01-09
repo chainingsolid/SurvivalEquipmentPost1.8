@@ -1,0 +1,10 @@
+{
+    "parent":"block/cube_column",
+    "textures":{
+        "end":"survivalequipment:blocks/enchanted_bag_chest_base",
+        "side":"survivalequipment:items/enchanted_bag_open"
+    }
+    
+    
+    
+}

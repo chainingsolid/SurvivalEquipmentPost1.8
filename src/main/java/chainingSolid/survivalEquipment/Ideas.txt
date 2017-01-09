@@ -1,0 +1,11 @@
+
+So idea is plants that can mutate into other plants, depending on there sroundings (biome, blocks, other plants)
+    some plants drop useful stuff (redstone iron quaz, what ever)
+    the "higher teir plants" don't drop a net positve on seeds so you have to keep mutating the lower teirs up to the high ones
+
+
+
+
+
+
+

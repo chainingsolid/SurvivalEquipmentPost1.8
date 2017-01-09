@@ -1,0 +1,9 @@
+{
+    "variants" : {
+        "is_open=false" : {"model" : "survivalequipment:enchanted_bag_chest_closed"},
+        "is_open=true" : {"model" : "survivalequipment:enchanted_bag_chest_open"}
+    }
+    
+    
+    
+}

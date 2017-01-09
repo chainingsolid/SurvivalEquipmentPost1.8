@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "survivalequipment:blocks/mob_farm_floor_top",
+        "side": "survivalequipment:blocks/mob_farm_floor_side"
+    }
+}

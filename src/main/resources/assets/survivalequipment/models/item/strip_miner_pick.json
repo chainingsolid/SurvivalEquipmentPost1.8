@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "survivalequipment:items/strip_miner_pick"
+    }
+}
